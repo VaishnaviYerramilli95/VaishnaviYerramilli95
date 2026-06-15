@@ -28,4 +28,4 @@ I build full-stack web apps and ML solutions. Currently exploring React, Node.js
 - Salesforce AI Agentforce (SmartBridge × APSCHE)
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/vaishnavi-yerramilli995)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/vaishnavi-yerramilli995/)

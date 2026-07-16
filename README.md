@@ -62,15 +62,6 @@ Git • GitHub • VS Code • Postman • Figma
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaishnaviYerramilli95&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VaishnaviYerramilli95&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VaishnaviYerramilli95&theme=tokyonight)
-
----
 
 # 🏆 Achievements
 

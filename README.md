@@ -1,74 +1,168 @@
-# Hi there, I'm Vaishnavi Yerramilli 👋
+# Hey, I'm Vaishnavi Yerramilli 👋
 
-### Software Engineer • Full Stack Developer • AI & ML Enthusiast
+### AI/ML Engineer in the making • Full Stack Developer • Product Builder
 
 🎓 B.Tech CSE (AI & ML) @ ANITS, Visakhapatnam  
-📊 CGPA: **9.20 / 10** | Batch of **2027**
+📊 CGPA: **9.20 / 10** • Class of **2027**
+
+I enjoy turning ideas into working products — from **AI-powered applications and predictive models** to **responsive full-stack platforms**.
+
+My goal is to build software that is not only technically sound, but also useful, intuitive, and ready to solve real-world problems.
 
 ---
 
-## 🚀 About Me
+## ✨ What I Build
 
-I'm a passionate software developer who enjoys building **production-ready web applications** and **AI-powered solutions**.
+🤖 **AI & Machine Learning**  
+Building practical ML applications involving prediction, classification, data processing and intelligent decision-making.
 
-My interests span across **Full Stack Development**, **Machine Learning**, and **Software Engineering**, with a strong focus on writing clean, scalable, and user-centric applications.
+🌐 **Full Stack Applications**  
+Designing responsive web applications with modern frontend, backend APIs and database integration.
 
-- 💻 Building Full Stack Applications
-- 🤖 Exploring AI & Machine Learning
-- 🌱 Continuously learning new technologies
-- 💯 Solved **170+ LeetCode** problems
+🧩 **Product-Oriented Solutions**  
+I enjoy taking an idea from concept → development → deployment and turning it into something people can actually use.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ My Tech Stack
 
-### Languages
+### Programming
+`Python`
 
-Python • Java • C • JavaScript • SQL
+### AI & Machine Learning
+`Scikit-learn` `TensorFlow` `Keras` `NumPy` `Pandas`
 
 ### Frontend
-
-React.js • HTML5 • CSS3 • Tailwind CSS
+`React.js` `HTML5` `CSS3` `Tailwind CSS`
 
 ### Backend
+`Node.js` `Express.js` `Flask` `REST APIs`
 
-Node.js • Express.js • Flask • REST APIs
+### Databases
+`MongoDB` `MySQL` `Supabase`
 
-### Database
-
-MongoDB • MySQL • Supabase
-
-### Machine Learning
-
-Scikit-learn • TensorFlow • Keras • OpenCV • MediaPipe • NumPy • Pandas
-
-### Tools
-
-Git • GitHub • VS Code • Postman • Figma
+### Tools & Platforms
+`Git` `GitHub` `VS Code` `Postman` `Figma` `Vercel` `Render`
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projects
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| **[MachinePulse](https://github.com/VaishnaviYerramilli95/machinepulse)** | React • Flask • Random Forest | AI-powered predictive maintenance dashboard with **98.4% model accuracy**. |
-| **[Halo Dental Care](https://github.com/VaishnaviYerramilli95/HaloDentalCare)** | React • Tailwind CSS • Vite | Production-ready website developed for a real-world dental clinic. |
-| **[PathPilot AI](https://github.com/VaishnaviYerramilli95/pathpilot-ai)** | React • Supabase • AI | AI-powered career roadmap platform with personalized learning plans. |
-| **[SmileHub Dental Care](https://github.com/VaishnaviYerramilli95/smilehubdentalcare)** | MERN Stack | Full-stack dental appointment management system. |
-| **[Breast Cancer Prediction](https://github.com/VaishnaviYerramilli95/breast-cancer-prediction)** | Python • Flask • Scikit-learn | Machine learning web application for breast cancer prediction. |
-| **[CNN Fashion MNIST](https://github.com/VaishnaviYerramilli95/CNN-fashion-MNIST)** | TensorFlow • Keras | CNN model for Fashion-MNIST image classification. |
-| **[Subway Surfers Gesture Control](https://github.com/VaishnaviYerramilli95/subway-surfers-gesture-control)** | OpenCV • MediaPipe | Real-time gesture-controlled gaming using computer vision. |
+A few of the things I've built while exploring AI, software engineering and full-stack development.
+
+### ⚙️ MachinePulse
+
+**AI-Powered Predictive Maintenance Dashboard**
+
+An intelligent dashboard that uses a **Random Forest machine learning model** to identify potential industrial machine failures.
+
+**Built with:** React • Flask • Random Forest • Scikit-learn
+
+**Model Accuracy:** **98.4%**
+
+🔗 [Live Demo](https://machinepulse.vercel.app/)  
+🔗 [GitHub](https://github.com/VaishnaviYerramilli95/machinepulse)
 
 ---
 
+### 🧭 PathPilot AI
 
-# 🏆 Achievements
+**Personalized Learning & Career Roadmap Platform**
 
-- 🚀 Built and deployed multiple Full Stack and AI-powered applications.
-- 💯 Solved **170+ LeetCode** problems.
-- 👩‍💻 Led a **7-member** development team during the Infosys Springboard project.
-- 🦷 Developed a production website for a real-world client.
+An AI-assisted platform designed to generate personalized learning roadmaps based on a user's career goals, interests and learning direction.
+
+**Built with:** React • Supabase • AI
+
+🔗 [Live Platform](https://pathpilotai95.lovable.app)  
+🔗 [GitHub](https://github.com/VaishnaviYerramilli95/pathpilot-ai)
+
+---
+
+### 🦷 SmileHub Dental Care
+
+**Full Stack Dental Appointment Platform**
+
+A full-stack web application for patient registration and dental appointment scheduling, with a responsive frontend and backend REST APIs.
+
+**Built with:** React • Node.js • Express.js • MongoDB
+
+🔗 [Live App](https://smilehub-nu.vercel.app/)  
+🔗 [GitHub](https://github.com/VaishnaviYerramilli95/smilehubdentalcare)
+
+---
+
+### 🏥 Halo Dental Care
+
+**Real-World Dental Clinic Website**
+
+A production website developed for a real-world dental clinic, focused on responsive design, clear service presentation and appointment enquiries.
+
+**Built with:** React • JavaScript • HTML5 • CSS3
+
+🔗 [Live Website](https://halo-dental-care.vercel.app/)  
+🔗 [GitHub](https://github.com/VaishnaviYerramilli95/HaloDentalCare)
+
+---
+
+### 🧬 Breast Cancer Prediction
+
+**Machine Learning Prediction Application**
+
+A machine learning web application for breast cancer prediction with data preprocessing, class-imbalance handling and model deployment.
+
+**Built with:** Python • Scikit-learn • Flask • SMOTE
+
+🔗 [GitHub](https://github.com/VaishnaviYerramilli95/breast-cancer-prediction)
+
+---
+
+### 🧠 Fashion-MNIST CNN
+
+**Deep Learning Image Classification**
+
+A CNN-based deep learning project that classifies Fashion-MNIST images into different categories using TensorFlow and Keras.
+
+**Built with:** TensorFlow • Keras • CNN
+
+🔗 [GitHub](https://github.com/VaishnaviYerramilli95/CNN-fashion-MNIST)
+
+---
+
+### 🎮 Subway Surfers Gesture Control
+
+**Interactive Python Project**
+
+A gesture-based interaction project that maps hand movements to game controls using real-time webcam input.
+
+**Built with:** Python • MediaPipe • OpenCV
+
+🔗 [GitHub](https://github.com/VaishnaviYerramilli95/subway-surfers-gesture-control)
+
+---
+
+# 💼 Experience
+
+### Infosys Springboard — Virtual Intern
+**2026 – Present**
+
+Currently participating in the **Infosys Springboard Virtual Internship 7.0**, gaining practical exposure to software development, problem-solving and industry-oriented technologies.
+
+---
+
+### SkillForge — Artificial Intelligence using Python Intern
+**May 2025 – July 2025**
+
+Worked with Python-based machine learning workflows involving data preprocessing, feature engineering, model development and evaluation.
+
+---
+
+# 🏆 Highlights
+
+- 🚀 Built and deployed multiple **AI/ML and full-stack applications**
+- ⚙️ Developed **MachinePulse**, a predictive maintenance system achieving **98.4% model accuracy**
+- 🦷 Developed and deployed **Halo Dental Care** for a real-world dental clinic
+- 💡 Participated in **Voyage Hack 3.0, IGNITE HACK 2026 and CODE CLASH**
+- 🎓 Maintaining a **9.20 CGPA** in B.Tech CSE (AI & ML)
 
 ---
 
@@ -78,35 +172,18 @@ Git • GitHub • VS Code • Postman • Figma
 - 🏅 Cisco Python Essentials 1
 - 🏅 Cisco Python Essentials 2
 - 🏅 Cisco Network Defense
-- 🏅 Cisco Networking Addressing and Troubleshooting
+- 🏅 Cisco Networking Addressing & Troubleshooting
+- 🏅 Cloud Technologies — Infosys Springboard
+- 🏅 Infosys Springboard Pragati — Cohort 8
 
 ---
 
-# 🌱 Currently Working On
+# 🌱 Currently Exploring
 
-- 🚀 Full Stack Development
-- 🤖 AI-powered Web Applications
-- 📚 Data Structures & Algorithms
-- ⚙️ Backend Development
-- 🗄️ PostgreSQL & Supabase
-
----
-
-# 💡 Interests
-
-- Full Stack Development
-- Artificial Intelligence
-- Machine Learning
-- Software Engineering
-
----
-
-# 🌐 Connect With Me
-
-- 💼 **LinkedIn:** www.linkedin.com/in/vaishnavi-yerramilli995
-- 🌍 **Portfolio:** https://vaishnaviyerramilli95.github.io/portfolio/
-- 🧩 **LeetCode:** https://leetcode.com/u/vaishnavi_yerramilli/
-
----
-
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories, connect with me, or collaborate on exciting projects.*
+```text
+AI-powered Web Applications
+Machine Learning
+Full Stack Development
+Backend Development
+Supabase & PostgreSQL
+Software Engineering
